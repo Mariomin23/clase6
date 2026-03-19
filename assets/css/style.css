@@ -1,0 +1,11 @@
+.ejercicio4{
+    display: flex;
+    justify-content: center;
+}
+.cuentaclick{
+display: flex;
+    justify-content: center;
+}    
+#carlos{
+    height: 400px;
+}
